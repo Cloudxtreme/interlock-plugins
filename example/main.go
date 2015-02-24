@@ -14,7 +14,7 @@ var (
 	name    = "example plugin"
 	version = "0.1"
 	author  = "@ehazlett"
-	url     = "github.com/ehazlett/interlock-plugins/master/example"
+	url     = "github.com/ehazlett/interlock-plugins/tree/master/example"
 )
 
 func handle(in *interlock.PluginInput) (*interlock.PluginOutput, error) {
